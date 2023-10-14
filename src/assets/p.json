@@ -1,0 +1,53 @@
+{
+	"product_id": "SHRT001",
+	"name": "Men's Classic Cotton Shirt",
+	"brand": "FashionFusion",
+	"description": "Panjabi Collection for men. This type of Panjabi is best for you. You can easily pick up your desirable product from Ambarlife. This Panjabi fabric is so much soft and comfy. So, you can wear it in summer. This trendy fashionable Panjabi has a slim fit with embroidered work on the chest and a beautiful van collar, as well as high-quality show buttons. You can wear it on any kind of occasion such as Eid-ul-Fitr, Eid-ul-Adha, Marriage, Iftar Party Etc.We get inspired by our customers' fidelity. Only we ensure fast, easy, and safe online shopping all over Bangladesh through online. We have a huge Panjabi collection in our online shop. Please choose your desired one before terminating the stock You are getting Semi Slack Panjabi from us for Eid-ul-Fitr. Which is a very comfortable fabric with 100% cotton. We give a color guarantee. This white Panjabi can be worn very comfortably on any occasion. If you are a young professional or student then this Punjabi is especially for you. So, order your favorite Panjabi now without farther any delay.",
+	"color": "White",
+	"sizes": ["S", "M", "L", "XL", "XXL"],
+	"measurement_chart": {
+		"S": {
+			"length": 68,
+			"width": 50,
+			"height": 4
+		},
+		"M": {
+			"length": 70,
+			"width": 52,
+			"height": 5
+		},
+		"L": {
+			"length": 72,
+			"width": 54,
+			"height": 5
+		},
+		"XL": {
+			"length": 74,
+			"width": 56,
+			"height": 6
+		}
+	},
+	"price": 29.99,
+	"discount": 0.1,
+	"stock": 150,
+	"rating": 4.8,
+	"reviews": 42,
+	"specification": [
+		{ "Product Type": "T-Shirt" },
+		{ "Color": "Black" },
+		{ "Main Material": "Cotton" },
+		{ "Gender": "Men" },
+		{ "Style": "Casual" },
+		{ "Design": "Chest Print" },
+		{ "GSM": 170 },
+		{ "Standard and unique product": "Comfortable to wear" }
+	],
+	"images": [
+		"https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+		"https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+		"https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+		"https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+		"https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+	],
+	"tags": ["men's fashion", "cotton shirt", "formal wear"]
+}
